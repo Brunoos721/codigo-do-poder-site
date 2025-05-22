@@ -1,1 +1,0 @@
-# codigo-do-poder-site
