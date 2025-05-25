@@ -64,6 +64,7 @@ footer {
   justify-content: center;
   margin-top: 20px;
 }
+
 .depoimentos img {
   width: 200px;
   height: auto;
@@ -71,4 +72,3 @@ footer {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   object-fit: cover;
 }
-
